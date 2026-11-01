@@ -1,0 +1,24 @@
+[1.150s] Invoking command in '/home/ubuntu/ros2_ws/src/turtlebot3_ai/build/turtlebot3_ai': PYTHONPATH=/home/ubuntu/ros2_ws/src/turtlebot3_ai/build/turtlebot3_ai/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ros2_ws/src/turtlebot3_ai/install/turtlebot3_ai/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/ros2_ws/src/turtlebot3_ai/build/turtlebot3_ai/build --no-deps symlink_data
+[1.538s] running develop
+[1.816s] running egg_info
+[1.816s] creating turtlebot3_ai.egg-info
+[1.817s] writing turtlebot3_ai.egg-info/PKG-INFO
+[1.818s] writing dependency_links to turtlebot3_ai.egg-info/dependency_links.txt
+[1.818s] writing entry points to turtlebot3_ai.egg-info/entry_points.txt
+[1.818s] writing requirements to turtlebot3_ai.egg-info/requires.txt
+[1.819s] writing top-level names to turtlebot3_ai.egg-info/top_level.txt
+[1.819s] writing manifest file 'turtlebot3_ai.egg-info/SOURCES.txt'
+[1.821s] reading manifest file 'turtlebot3_ai.egg-info/SOURCES.txt'
+[1.822s] writing manifest file 'turtlebot3_ai.egg-info/SOURCES.txt'
+[1.825s] running build_ext
+[1.825s] Creating /home/ubuntu/ros2_ws/src/turtlebot3_ai/install/turtlebot3_ai/lib/python3.10/site-packages/turtlebot3-ai.egg-link (link to .)
+[1.825s] Installing ai_controller script to /home/ubuntu/ros2_ws/src/turtlebot3_ai/install/turtlebot3_ai/lib/turtlebot3_ai
+[1.826s] 
+[1.826s] Installed /home/ubuntu/ros2_ws/src/turtlebot3_ai/build/turtlebot3_ai
+[1.827s] running symlink_data
+[1.827s] creating /home/ubuntu/ros2_ws/src/turtlebot3_ai/install/turtlebot3_ai/share/ament_index
+[1.827s] creating /home/ubuntu/ros2_ws/src/turtlebot3_ai/install/turtlebot3_ai/share/ament_index/resource_index
+[1.827s] creating /home/ubuntu/ros2_ws/src/turtlebot3_ai/install/turtlebot3_ai/share/ament_index/resource_index/packages
+[1.827s] symbolically linking /home/ubuntu/ros2_ws/src/turtlebot3_ai/build/turtlebot3_ai/resource/turtlebot3_ai -> /home/ubuntu/ros2_ws/src/turtlebot3_ai/install/turtlebot3_ai/share/ament_index/resource_index/packages
+[1.828s] symbolically linking /home/ubuntu/ros2_ws/src/turtlebot3_ai/build/turtlebot3_ai/package.xml -> /home/ubuntu/ros2_ws/src/turtlebot3_ai/install/turtlebot3_ai/share/turtlebot3_ai
+[1.875s] Invoked command in '/home/ubuntu/ros2_ws/src/turtlebot3_ai/build/turtlebot3_ai' returned '0': PYTHONPATH=/home/ubuntu/ros2_ws/src/turtlebot3_ai/build/turtlebot3_ai/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ros2_ws/src/turtlebot3_ai/install/turtlebot3_ai/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/ros2_ws/src/turtlebot3_ai/build/turtlebot3_ai/build --no-deps symlink_data
